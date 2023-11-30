@@ -4144,7 +4144,7 @@ return orthographicDepthToViewZ(depth,cameraNear,cameraFar);
 “Pichulonco”
 creado por
 Cristian
-Wiesenfeld`,images:["/images/cap01.jpg","/images/cap02.jpg","/images/cap03.jpg"]},{tag:"01",text:`Relata
+Wiesenfeld`,images:["/landing-marco/images/cap01.jpg","/landing-marco/images/cap02.jpg","/landing-marco/images/cap03.jpg"]},{tag:"01",text:`Relata
 las aventuras
 del popular
 “indio pícaro”
